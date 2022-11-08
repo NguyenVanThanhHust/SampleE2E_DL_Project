@@ -1,1 +1,2 @@
 # SampleE2E_DL_Project
+Learn from [complete-end-to-end-ml-model](https://medium.com/@goradbj/how-to-build-complete-end-to-end-ml-model-backend-restapi-using-fastapi-and-front-end-ui-using-22f64bf04476)
